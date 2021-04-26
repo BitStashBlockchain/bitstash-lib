@@ -1,0 +1,2 @@
+# bitstash-lib
+Bitstash library
