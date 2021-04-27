@@ -55236,7 +55236,7 @@ module.exports={
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/BITSTASH/bitstash-lib.git"
+    "url": "https://github.com/BitStashBlockchain/bitstash-lib.git"
   },
   "browser": {
     "request": "browser-request"

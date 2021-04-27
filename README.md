@@ -37,7 +37,7 @@ This will generate files named `bitstash-lib.js` and `bitstash-lib.min.js`.
 ## Development & Tests
 
 ```sh
-git clone https://github.com/BITSTASH/bitstash-lib
+git clone https://github.com/BitStashBlockchain/bitstash-lib
 cd bitstash-lib
 npm install
 ```
